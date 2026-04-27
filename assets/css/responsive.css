@@ -111,6 +111,7 @@
 
     #hero{
         height: 45vh;
+        background-image: url(../img/background.png);
     }
     
     #hero .heroLeft{
