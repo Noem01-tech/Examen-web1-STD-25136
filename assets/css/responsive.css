@@ -112,7 +112,7 @@
                 /* HERO SECTION  */
 
     main .hero{
-        height: 45vh;
+        height: 50vh;
         background-image: url(https://raw.githubusercontent.com/Noem01-tech/Examen-web1-STD-25136/main/assets/img/background.png);
     }
     
@@ -166,7 +166,7 @@
     main .aboutUs{
         height: 70vh;
         padding-top: 3vh;
-        padding-bottom: 0;
+        padding-bottom: 3vh;
     }
 
     main .aboutUs .leftImg{
