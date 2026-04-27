@@ -274,7 +274,7 @@ main .hero .heroText .text{
 
 main .hero .heroText .text h1{
     font-size: clamp(32px,5vw,64.8px);
-    font-family: "Garamond",Arial, Helvetica;
+    font-family: "EB Garamond",Arial, Helvetica;
     padding-bottom: 5vh;
 }
 
