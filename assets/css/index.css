@@ -352,7 +352,7 @@ main .aboutUs{
     height: 95vh;
     display: flex;
     padding-block: 5vh;
-    background-image: url(../img/apropos-backgound.png);
+    background-image: url(https://raw.githubusercontent.com/Noem01-tech/Examen-web1-STD-25136/main/assets/img/apropos-backgound.png);
     gap: 10%;
 }
 
@@ -875,7 +875,7 @@ main .program img{
 main .language{
     width: 100%;
     display: flex;
-    background-image: url(../img/Fond-HEI-3.png);
+    background-image: url(https://raw.githubusercontent.com/Noem01-tech/Examen-web1-STD-25136/main/assets/img/Fond-HEI-3.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
