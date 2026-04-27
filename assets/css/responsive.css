@@ -109,24 +109,24 @@
 
                 /* HERO SECTION  */
 
-    #hero{
+    main .hero{
         height: 45vh;
         background-image: url(../img/background.png);
     }
     
-    #hero .heroLeft{
+    main .hero .heroLeft{
         display: none;
     }
 
-    #hero .heroRight{
+    main .hero .heroRight{
         display: none;
     }
 
-    #hero .heroText{
+    main .hero .heroText{
         width: 100%;
     }
 
-    #hero .heroText .text{
+    main .hero .heroText .text{
         padding-block: 0;
         padding-bottom: 5vh;
     }
@@ -139,14 +139,14 @@
         max-width: 85%;
     }
 
-    main #hero .heroText .heroButton{
+    main .hero .heroText .heroButton{
         width: 100%;
         justify-content: center;
         margin-top: 2vh;
         margin-bottom: 4vh;
     }
 
-    main #hero .heroText .heroButton button{
+    main .hero .heroText .heroButton button{
         width: clamp(150px,10vw,250px);
         height: clamp(34px,6vh,50px);
     }
