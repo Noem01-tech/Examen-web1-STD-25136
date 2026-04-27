@@ -24,6 +24,7 @@
         align-items: center;
         padding-inline: 5vw;
         z-index: 200;
+        background-color: var(--font-primary);
     }
 
      header .logoCell{
@@ -48,6 +49,7 @@
         z-index: 200;
         border: 1px black solid;
         border-radius: 5px;
+        background-color: var(--primary);
     }
 
     header label span{
@@ -72,6 +74,7 @@
         padding-block: 2vh;
         transition: 0.5s;
         border-top: 1px black solid;
+        background-color: var(--font-primary);
     }
 
     .cell a{
@@ -80,7 +83,7 @@
         text-decoration: none;
         font-family: Arial, Helvetica, sans-serif;
         font-weight: 600;
-        color: var(--font-primary);
+        color: #fff;
     }
 
     .cell button{
