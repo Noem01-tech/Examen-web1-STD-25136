@@ -135,6 +135,7 @@
 
     main .hero .heroText .text h1{
         padding-top: 3vh;
+        font-family: "Garamond",Arial, Helvetica;
     }
 
     #hero .heroText .text .part1{
