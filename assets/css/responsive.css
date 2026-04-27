@@ -113,7 +113,7 @@
 
     main .hero{
         height: 45vh;
-        background-image: url(../img/background.png);
+        background-image: url(https://raw.githubusercontent.com/Noem01-tech/Examen-web1-STD-25136/main/assets/img/background.png);
     }
     
     main .hero .heroLeft{
