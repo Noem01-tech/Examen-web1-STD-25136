@@ -60,21 +60,23 @@
 }
     .cell{
         width: 100vw;
-        height: auto;
+        height: 100%;
         display: flex;
         background-color: #fff;
         flex-direction: column;
         padding-left: 5vw;
-        align-items: center;
+        align-items: start;
         position: fixed;
         gap: 1vh;
         top: 0;
         z-index: 150;  
-        transform: translateY(-100%);
+        transform: translateX(100%);
         padding-block: 2vh;
         transition: 0.5s;
         border-top: 1px black solid;
         background-color: var(--font-primary);
+        padding-top: 13vh;
+        gap: 2vh;
     }
 
     .cell a{
@@ -95,11 +97,11 @@
         background-color:var(--primary);
         border-radius: 5px;
         border: none;
-        align-self: center;
+        margin-left: 6vw;
     }
 
     #burger:checked ~ .cell{
-        transform: translateY(10vh);
+        transform: translateX(50vw);
 
     }
 
@@ -110,8 +112,8 @@
                 /* HERO SECTION  */
 
     main .hero{
-        height: 50vh;
-        background-image: url(https://raw.githubusercontent.com/Noem01-tech/Examen-web1-STD-25136/main/assets/img/background.png);
+        height: 45vh;
+        background-image: url(../img/background.png);
     }
     
     main .hero .heroLeft{
@@ -619,5 +621,5 @@ button:hover::before{
 }
 }
 
-               
+          
 
