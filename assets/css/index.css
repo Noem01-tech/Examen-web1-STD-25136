@@ -408,7 +408,7 @@ main .team{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url(../img/Fond-HEI-2-v2.png);
+    background-image: url(https://raw.githubusercontent.com/Noem01-tech/Examen-web1-STD-25136/main/assets/img/Fond-HEI-2-v2.png);
     padding-bottom: 5vh;
 }
 
